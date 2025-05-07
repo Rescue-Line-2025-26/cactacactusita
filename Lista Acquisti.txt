@@ -1,0 +1,16 @@
+Raspberry PI 5
+Faretto Led (1.5v)
+PCA 9685
+Cavo USB-C https://www.amazon.it/Cavo-sdoppiatore-USB-tipo-caricabatteri/dp/B0DQYP5F1Q/ref=sr_1_11
+Cavo Mini-USB https://www.amazon.it/Digitus-AK300130010S-Cavo-Connessione-Nero/dp/B00H8SMOLK/ref=sr_1_6
+2 pacchi cavi maschio - femmina https://www.amazon.it/maschio-femmina-arduino-Breadboard-progetti/dp/B06Y3V38YT/ref=sr_1_7
+2 pacchi viti M3 https://www.amazon.it/Bulloni-Svasata-Rondelle-Piatta-Argento/dp/B0DQCY4MZ4/ref=sr_1_3_sspa
+Socket USB-C 
+2 giroscopi gbn055  https://www.amazon.it/Modulo-sensore-giroscopio-geomagnetismo-accelerazione/dp/B091CVMVPF
+5 (2) VL53l1x https://www.amazon.it/VL53L0X-Distanza-Binghe-Rilevamento-compatibile/dp/B0D8XL43HZ/ref=sr_1_1_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=CX0BIX3GHK8C&dib=eyJ2IjoiMSJ9.nMmJ6A1qa3VYj_wYfS6AOu5nmSlY2eboidggWNJchISOq7I94rVf5z5A4WFSn_5nlW5O7Vy67MHpcNZ2ZO69nn-6tiyvPWAmKazV1WKlOrL1ziNoiPsK90Ifbd0CNdkyNifv6iliGrxwPuGLw2XEsgrfe9H_H0FdY9ENMYwFgCiTyOdLSYdsjO6NjqZ1-R0WAevRAjCqJMRyTLYhd0kbAM4LlONGLN5pkoLvchlHJtgkTM2gG5WbvEjEfZ9ppiWVYypO39iz05MpKW14IHtfGGCuIbMASX6YAjmbOxTDYL8.emC5pnZqv6ZOnh9GncnR4OXme338fSUAtnJw4q6fsfQ&dib_tag=se&keywords=VL53L1X&qid=1746627687&s=industrial&sprefix=vl53l1x%2Cindustrial%2C105&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+6 Heavent endecoder https://www.amazon.it/VL53L0X-Distanza-Binghe-Rilevamento-compatibile/dp/B0D8XL43HZ/ref=sr_1_1_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=CX0BIX3GHK8C&dib=eyJ2IjoiMSJ9.nMmJ6A1qa3VYj_wYfS6AOu5nmSlY2eboidggWNJchISOq7I94rVf5z5A4WFSn_5nlW5O7Vy67MHpcNZ2ZO69nn-6tiyvPWAmKazV1WKlOrL1ziNoiPsK90Ifbd0CNdkyNifv6iliGrxwPuGLw2XEsgrfe9H_H0FdY9ENMYwFgCiTyOdLSYdsjO6NjqZ1-R0WAevRAjCqJMRyTLYhd0kbAM4LlONGLN5pkoLvchlHJtgkTM2gG5WbvEjEfZ9ppiWVYypO39iz05MpKW14IHtfGGCuIbMASX6YAjmbOxTDYL8.emC5pnZqv6ZOnh9GncnR4OXme338fSUAtnJw4q6fsfQ&dib_tag=se&keywords=VL53L1X&qid=1746627687&s=industrial&sprefix=vl53l1x%2Cindustrial%2C105&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+(da sistemare anche)
+
+
+
+#se c'è oò motore dc prendere dei ponti h
